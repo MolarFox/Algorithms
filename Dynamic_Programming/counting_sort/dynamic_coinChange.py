@@ -1,4 +1,4 @@
-# Rithesh Jayaram 2019
+# MolarFox 2019
 
 import random
 import math
